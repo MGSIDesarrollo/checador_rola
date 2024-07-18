@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "463750683355",
+    "project_id": "checador-rola",
+    "storage_bucket": "checador-rola.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463750683355:android:31268905f97f64555e4afe",
+        "android_client_info": {
+          "package_name": "mgsi.checador.checador_rola"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463750683355-n6j06gs590lccttjbuhv678hg3o558q9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKKOtDO5Tli2wlvAwHGFlg4K3h-cmDaIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463750683355-n6j06gs590lccttjbuhv678hg3o558q9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
